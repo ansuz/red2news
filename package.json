@@ -1,0 +1,29 @@
+{
+  "name": "red2news",
+  "version": "0.0.0",
+  "description": "grab reddit feeds, turn them into nntp messages",
+  "main": "index.js",
+  "dependencies": {
+    "node-nntp": "^0.5.1",
+    "redwrap": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ansuz/red2news.git"
+  },
+  "keywords": [
+    "nntp",
+    "reddit",
+    "hyperboria"
+  ],
+  "author": "ansuz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ansuz/red2news/issues"
+  },
+  "homepage": "https://github.com/ansuz/red2news"
+}
